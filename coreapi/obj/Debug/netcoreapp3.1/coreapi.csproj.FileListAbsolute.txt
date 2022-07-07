@@ -1,5 +1,0 @@
-c:\dev\WebApp\coreapi\obj\Debug\netcoreapp3.1\coreapi.csprojAssemblyReference.cache
-c:\dev\WebApp\coreapi\obj\Debug\netcoreapp3.1\coreapi.AssemblyInfoInputs.cache
-c:\dev\WebApp\coreapi\obj\Debug\netcoreapp3.1\coreapi.AssemblyInfo.cs
-c:\dev\WebApp\coreapi\obj\Debug\netcoreapp3.1\coreapi.csproj.CoreCompileInputs.cache
-c:\dev\WebApp\coreapi\obj\Debug\netcoreapp3.1\coreapi.MvcApplicationPartsAssemblyInfo.cache
